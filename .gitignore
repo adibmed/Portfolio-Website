@@ -8,6 +8,11 @@
 # testing
 /coverage
 
+# personal  pages
+pages/sotware.js
+pages/contact_form.js
+pages/skills.js
+
 # next.js
 /.next/
 /out/
